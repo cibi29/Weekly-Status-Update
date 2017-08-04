@@ -12,7 +12,8 @@ This page will temporary reflect weekly updates on the project
 
 ## Week 2 (In Progress)
 * Goal - Machine Translation from French to English to augment English dataset
-* Pre-trained word embeddings have already been released recently by Facebook for over 290 languages
+* Working on finding a French corpus for translation
+* Word embeddings trained on Wikipedia using FastText were released recently by Facebook
 * FastText Word Embeddings for Arabic were trained on a corpus of 
 
 
