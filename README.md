@@ -13,7 +13,7 @@ This page will temporary reflect weekly updates on the project
 ## Week 2 (In Progress)
 * Goal - Machine Translation from French to English to augment English dataset
 * Reading about - 
-1. FastText - Its performance with respect to word2vec on benchmarks. 
+1. FastText - Results on its performance with respect to word2vec on benchmarks. [Link] (https://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
 2. Convolutional Sequence to Sequence Learning (Neural Machine Translation at Facebook)
 3. Google's Neural Machine Translation System
 * Word embeddings trained on Wikipedia using FastText were released recently by Facebook
