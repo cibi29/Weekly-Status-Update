@@ -12,8 +12,11 @@ This page will temporary reflect weekly updates on the project
 
 ## Week 2 (In Progress)
 * Goal - Machine Translation from French to English to augment English dataset
-* Working on finding a French corpus for translation
+* Reading about - 
+1. FastText - Its performance with respect to word2vec on benchmarks. 
+2. Convolutional Sequence to Sequence Learning (Neural Machine Translation at Facebook)
+3. Google's Neural Machine Translation System
 * Word embeddings trained on Wikipedia using FastText were released recently by Facebook
-* FastText Word Embeddings for Arabic were trained on a corpus of 
+* FastText Word Embeddings for Arabic were trained on the Arabic wikipedia corpus - vocabulary size = 610978
 
 
