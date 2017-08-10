@@ -21,7 +21,7 @@ This page will temporary reflect weekly updates on the project
 
 ## Week 3
 * Ran a pretrained German to English OpenNMT model. This does not seem viable for the following reasons - 
-1. Many of the words encountered at test time are marked as unknown as they haven't been encountered during training time. 
+1. Many of the words encountered at test time are marked as unknown as they haven't been encountered during training time.[Sample Output](https://github.com/cibi29/Weekly-Status-Update/blob/master/results.txt)
 2. Translations take approximately 40 minutes for every 750 sentences - (approximately 7000 words). 
 3. Training the model again would require huge resources as well as time. 
 * Therefore queried Google Translate with German Corpus of Patent Information and obtained the following results - 
