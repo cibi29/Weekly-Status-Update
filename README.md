@@ -26,4 +26,4 @@ This page will temporary reflect weekly updates on the project
 3. Training the model again would require huge resources as well as time. 
 * Therefore queried Google Translate with German Corpus of Patent Information and obtained the following results - 
 1. Word2vec results on part and whole of currently translated data - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/g_translate_results.png)
-2. 
+2. Machien Translated Word2vec results vs original word2vec results - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/figure_1.png)
