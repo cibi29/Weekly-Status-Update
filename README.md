@@ -25,5 +25,5 @@ This page will temporary reflect weekly updates on the project
 2. Translations take approximately 40 minutes for every 750 sentences - (approximately 7000 words). 
 3. Training the model again would require huge resources as well as time. 
 * Therefore queried Google Translate with German Corpus of Patent Information and obtained the following results - 
-1. Word2vec results on part and whole of currently translated data - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/g_translate_results.png)
-2. Machien Translated Word2vec results vs original word2vec results - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/figure_1.png)
+1. Word2vec results on part and whole of currently translated data. Results seem to favourably show that word2vec accuracy improves with more machine translated training data. - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/g_translate_results.png)
+2. Machine Translated Word2vec results vs original word2vec results. The results obtained are close to that of using half the enwik8 dataset. The vocabulary of machine translated training data is however lower - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/figure_1.png)
