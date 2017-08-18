@@ -27,3 +27,11 @@ This page will temporary reflect weekly updates on the project
 * Therefore queried Google Translate with German Corpus of Patent Information and obtained the following results - 
 1. Word2vec results on part and whole of currently translated data. Results seem to favourably show that word2vec accuracy improves with more machine translated training data. - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/g_translate_results.png)
 2. Machine Translated Word2vec results vs original word2vec results. The results obtained are close to that of using half the enwik8 dataset. The vocabulary of machine translated training data is however lower - [Graph](https://github.com/cibi29/Weekly-Status-Update/blob/master/figure_1.png)
+
+## Week 4
+* Generated more translated german data and ran word2vec on them - Training data is approximately doubled from last week. 
+1. Accuracy improves by only 2 percent. Final Accuracy : 17.3 percent
+2. Training document size : 15101507 words.  Vocabulary Size : 24174
+3. Accuracy observably improves with number of words in the vocabulary but the size of training data however contributes very little to increase in performance. 
+4. Training Data, Vocab Size vs Accuracy - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing)
+* Started two courses - one on NLP and another on Probability Theory ( 
