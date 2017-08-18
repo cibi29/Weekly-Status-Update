@@ -33,5 +33,5 @@ This page will temporary reflect weekly updates on the project
 1. Accuracy improves by only 2 percent. Final Accuracy : 17.3 percent
 2. Training document size : 15101507 words.  Vocabulary Size : 24174
 3. Accuracy observably improves with number of words in the vocabulary but the size of training data however contributes very little to increase in performance. 
-4. Training Data, Vocab Size vs Accuracy - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing)
-* Started two courses - one on NLP and another on Probability Theory ( 
+4. Training Data, Vocab Size vs Accuracy - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing) Graphs already present in last week's report.
+* Started two courses - one on NLP and another on Probability Theory  
