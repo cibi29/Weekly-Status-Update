@@ -35,3 +35,12 @@ This page will temporary reflect weekly updates on the project
 3. Accuracy observably improves with number of words in the vocabulary but the size of training data however contributes very little to increase in performance. 
 4. Training Data, Vocab Size vs Accuracy - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing) 
 * Started two courses - one on NLP and another on Probability Theory  
+
+## Week 5
+
+
+* Read the following papers related to Evaluation of Word Embeddings
+1. Evaluating Word Embeddings Using a Representative Suite of Practical Tasks - [Paper](https://cs.stanford.edu/~angeli/papers/2016-acl-veceval.pdf)
+2. Evaluation methods for unsupervised word embeddings - [Paper](http://www.aclweb.org/anthology/D15-1036)
+3. Community Evaluation and Exchange of Word Vectors - [Paper](http://www.manaalfaruqui.com/papers/acl14-vecdemo.pdf)
+4. Intrinsic Evaluation of Word Vectors Fails to Predict Extrinsic Performance - [Paper](https://www.aclweb.org/anthology/W/W16/W16-2501.pdf)
