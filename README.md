@@ -37,11 +37,11 @@ This page will temporary reflect weekly updates on the project
 * Started two courses - one on NLP and another on Probability Theory  
 
 ## Week 5
-* Evaluated the word embeddings using an intrinsic task based on paper 3 listed below - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing)
+* Evaluated the word embeddings using intrinsic tasks based on paper 3 listed below - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing)
 * Embeddings produced from machine translated training data as well as raw training data achieve the same scores on the various tasks thus suggesting that translated data can be used where raw training data is sparse. 
-* As observed earlier, performance on all these tasks improves with increasing vocabulary size. This is because a larger vocabulary would mean more constrained word embeddings. The position of each word in the multi-dimensional graph gets more certain as the the vocabulary size (similar to the number of constraints) increases. 
-* Read the following papers related to Evaluation of Word Embeddings
+* As observed earlier, performance on all these tasks improves with increasing vocabulary size. This is because a larger vocabulary would mean more constrained word embeddings. The position of each word in the multi-dimensional graph gets more certain as the the vocabulary size (similar to the number of constraints) increases.
 
+* Read the following papers related to Evaluation of Word Embeddings
 1. Evaluating Word Embeddings Using a Representative Suite of Practical Tasks - [Paper](https://cs.stanford.edu/~angeli/papers/2016-acl-veceval.pdf)
 2. Evaluation methods for unsupervised word embeddings - [Paper](http://www.aclweb.org/anthology/D15-1036)
 3. Community Evaluation and Exchange of Word Vectors - [Paper](http://www.manaalfaruqui.com/papers/acl14-vecdemo.pdf)
