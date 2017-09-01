@@ -6,6 +6,7 @@ This page will temporary reflect weekly updates on the project
 1. The graph does show that the vocabulary size of Hindi does not increase as fast as that for the source english corpus. While this difference in vocabulary size keeps on increasing, the rate at which it does so is bound to decrease eventually as the vocabulary for any language saturates after a point. 
 * German to English Translation on Europarl corpus and Word2vec run on it - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing) 
 1. The Europarl corpus contains proceedings of the European parliament. Results compare well with previous results that were obtained on the Patent Corpus and are more or less similar.  
+* Continuing with the online courses.  
 
 ## Week 5
 * Evaluated the word embeddings using intrinsic tasks based on paper 3 listed below - [Spreadsheet](https://docs.google.com/spreadsheets/d/1M5-BnB-KgTU_q1Ld6e8_NayMAwLYuaveREOSlJKF7g0/edit?usp=sharing)
