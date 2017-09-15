@@ -1,6 +1,15 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 7
+* As suggested last week, I have been translating a larger english corpus to Hindi
+* Regarding multilingual word embeddings and their evaluation, found a few papers that suggest similar or better approaches to tackle the problem in the following papers - 
+1. Improving Vector Space Word Representations Using Mutlilingual Correlation - Manaal Faruqui and Chris Dyer EACL 2014
+2. Massively Mutlilingual Word Embeddings - Waleed Ammar, Chris Dyer ... arXiv 2016
+Both basically represent words from different languages in the same space and they seem to be a good direction to head in for the following reasons - 
+1. Two methods multiCluster and multiCCA only require monolingual corpora together with dictionaries between two or more languages thereby avoiding the need for parallel corpora or translated data. 
+2. Evaluation becomes easier without the need to create expensive language dependent tasks each time. Some methods still require annotated linguistic resources though.  
+
 ## Week 6
 * Translated News Commentary 11 English corpus to Hindi sentences and plotted a graph of the vocabulary size for the source English corpus vs Translated Hindi sentences - [Graph](https://github.com/cibi29/Weekly-Status-Update/commit/9be4ff9125e2286a7ffca7667ff79d7ff5b42ae9)
 1. The graph does show that the vocabulary size of Hindi does not increase as fast as that for the source english corpus. While this difference in vocabulary size keeps on increasing, the rate at which it does so is bound to decrease eventually as the vocabulary for any language saturates after a point. 
