@@ -1,6 +1,13 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 8
+* Evaluating Hindi - embeddings using Sentiment Analysis Task on IMDB reviews dataset containing 50000 balanced reviews . 
+* On Original English dataset - reported accuracy is 87 % and state of the art is 88.89 percent. 
+* On Hindi dataset obtained by translating these IMDB reviews and using word embeddings generated from a large europarl translated corpus- we get accuracies of around 51 percent. Haven’t yet identified the reason for this poor result. On the English dataset however, 86.2 percent accuracy is observed. 
+* Trying to initialize the model using fasttext embeddings - have faced some difficulty due to unfamiliarity with the keras environment.
+* Read a paper on Evaluating Word Embeddings Using a Representative Suite of Practical Tasks - [Paper](https://cs.stanford.edu/~angeli/papers/2016-acl-veceval.pdf) - therefore chose sentiment analysis task
+
 ## Week 7
 * As suggested last week, I have been translating a larger english corpus to Hindi
 * Regarding multilingual word embeddings and their evaluation, found a few papers that suggest similar or better approaches to tackle the problem in the following papers - 
@@ -23,10 +30,9 @@ Both basically represent words from different languages in the same space and th
 * As observed earlier, performance on all these tasks improves with increasing vocabulary size. This is because a larger vocabulary would mean more constrained word embeddings. The position of each word in the multi-dimensional graph gets more certain as the the vocabulary size (similar to the number of constraints) increases.
 
 * Read the following papers related to Evaluation of Word Embeddings
-1. Evaluating Word Embeddings Using a Representative Suite of Practical Tasks - [Paper](https://cs.stanford.edu/~angeli/papers/2016-acl-veceval.pdf)
-2. Evaluation methods for unsupervised word embeddings - [Paper](http://www.aclweb.org/anthology/D15-1036)
-3. Community Evaluation and Exchange of Word Vectors - [Paper](http://www.manaalfaruqui.com/papers/acl14-vecdemo.pdf)
-4. Intrinsic Evaluation of Word Vectors Fails to Predict Extrinsic Performance - [Paper](https://www.aclweb.org/anthology/W/W16/W16-2501.pdf)
+1. Evaluation methods for unsupervised word embeddings - [Paper](http://www.aclweb.org/anthology/D15-1036)
+2. Community Evaluation and Exchange of Word Vectors - [Paper](http://www.manaalfaruqui.com/papers/acl14-vecdemo.pdf)
+3. Intrinsic Evaluation of Word Vectors Fails to Predict Extrinsic Performance - [Paper](https://www.aclweb.org/anthology/W/W16/W16-2501.pdf)
 
 ## Week 4
 * Generated more translated german data and ran word2vec on them - Training data is approximately doubled from last week. 
