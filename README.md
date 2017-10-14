@@ -1,6 +1,15 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 9
+* Regenerating parallel corpus for English - Hindi for Jerin’s MT. Previous output was in paragraphs and parallel sentences could not be obtained easily.  
+* Reading the following paper - Word Translation Without Parallel Data - Alexis Conneau 
+* Final Results on Sentiment Analysis Task - 
+		Word Embeddings from translated data - 71.6 percent accuracy 
+    Fasttext Word Embeddings - 55.79 percent accuracy 	
+* For the sentiment analysis task, translated embeddings seem to perform better than fasttext embeddings. As mentioned in multiple papers however, some embeddings are better suited for certain tasks. Word2vec captures semantics better than fasttext, hence this result. This does not necessarily mean that these translated embeddings are altogether better than fasttext. More tasks should help us get a better evaluation.
+
+
 ## Week 8
 * Evaluating Hindi - embeddings using Sentiment Analysis Task on IMDB reviews dataset containing 50000 balanced reviews . 
 * On Original English dataset - reported accuracy is 87 % and state of the art is 88.89 percent. 
