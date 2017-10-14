@@ -2,7 +2,7 @@
 This page will temporary reflect weekly updates on the project
 
 ## Week 9
-* Regenerating parallel corpus for English - Hindi for Jerin’s MT. Previous output was in paragraphs and parallel sentences could not be obtained easily.  
+* Regenerating parallel corpus for English - Hindi for the MT. Previous output was in paragraphs and parallel sentences could not be obtained easily.  
 * Reading the following paper - Word Translation Without Parallel Data - Alexis Conneau 
 * Final Results on Sentiment Analysis Task - 
 		Word Embeddings from translated data - 71.6 percent accuracy 
