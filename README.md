@@ -4,8 +4,8 @@ This page will temporary reflect weekly updates on the project
 ## Week 10
 * Found a contradiction to last week’s results and hence reran sentiment analysis task for fasttext and hindi embeddings 
 * Tests rerun again have shown the following to be the final results 
-		Fasttext embeddings - 76.34 percent
-		Word2vec embeddings from translated corpus - 74.97 percent 
+1. Fasttext embeddings - 76.34 percent
+2. Word2vec embeddings from translated corpus - 74.97 percent 
 * For embeddings trained on different fractions of the translated training data, accuracies range from 68.7 percent to       71.9 percent. While performance is almost directly related to fraction of trained data, there are some outliers which will have to be looked into. 
 * Moved onto a different language (Tamil) to verify these results - Translation of the entire europarl corpus for creating embeddings as well as translation of imdb dataset for sentiment analysis is complete now.
 * Processing the recreated parallel corpus (sentence-wise for the MT).
