@@ -1,6 +1,15 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 11
+* Generated word embeddings using fastText as opposed to word2vec. Training corpus used was the same europarl corpus used for word2vec. 
+* Used the generated fastText embeddings in the sentiment analysis task and obtained an accuracy of 76.82 percent which compares with previous results as follows - 
+1. fastText trained on europarl - 76.82 percent
+2. fastText pretrained on wikipedia - 76.34 percent
+3. word2vec trained on europarl - 74.97 percent
+* 
+	
+
 ## Week 10
 * Found a contradiction to last week’s results and hence reran sentiment analysis task for fasttext and hindi embeddings 
 * Tests rerun again have shown the following to be the final results 
