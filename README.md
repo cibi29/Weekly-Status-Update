@@ -7,7 +7,8 @@ This page will temporary reflect weekly updates on the project
 1. fastText trained on europarl - 76.82 percent
 2. fastText pretrained on wikipedia - 76.34 percent
 3. word2vec trained on europarl - 74.97 percent
-* 
+* Currently working on obtaining the Hindi wikipedia dump and preprocessing it so as to have more training data.
+* Completed translation for yet another language. (Hindi, Telugu and Tamil are complete so far)
 	
 
 ## Week 10
