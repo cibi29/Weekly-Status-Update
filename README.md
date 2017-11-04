@@ -9,7 +9,7 @@ This page will temporary reflect weekly updates on the project
 3. word2vec trained on europarl - 74.97 percent
 * Currently working on obtaining the Hindi wikipedia dump and preprocessing it so as to have more training data.
 * Completed translation for yet another language. (Hindi, Telugu and Tamil are complete so far)
-* Exploring a paper - Improving Neural Machine Translation Models with Monolingual Data - Rico Sennrich , ACL 2016
+* Back-translation from "Improving Neural Machine Translation Models with Monolingual Data" - Rico Sennrich , ACL 2016
 	
 
 ## Week 10
