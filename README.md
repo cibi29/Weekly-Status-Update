@@ -8,7 +8,7 @@ This page will temporary reflect weekly updates on the project
 3. word2vec on Hindi wikipedia and translated europarl - 72.16 percent
 * Working on the code for other extrinsic tasks (POS tagging, NER) as mentioned in the Veceval paper (there is a need for annotated data), spoke to Soumith from NLP lab and have requested for annotated corpora in nine indian languages. 
 * Completed translation for five out of eight languages for these tasks. Generated Malayalam and Kannada translations this week. 
-* One to be addressed in the paper - What do we mention about the machine translation system that was used ? 
+* One concern to be addressed in the paper - What do we mention about the machine translation system that was used ? 
 
 ## Week 11
 * Generated word embeddings using fastText as opposed to word2vec. Training corpus used was the same europarl corpus used for word2vec. 
