@@ -2,7 +2,7 @@
 This page will temporary reflect weekly updates on the project
 
 ## Week 13 
-* Completed tests with another extrinsic task called Question Classification. Please refer to the results [here](https://docs.google.com/spreadsheets/d/1YGONjsOB_f-kuzWRAzNH86xrIGGohzAEV_WWmTJ_DXQ/edit#gid=0)
+* Completed tests with another extrinsic task - Question Classification. Please refer to the results [here](https://docs.google.com/spreadsheets/d/1YGONjsOB_f-kuzWRAzNH86xrIGGohzAEV_WWmTJ_DXQ/edit#gid=0)
 * Results show that word2vec trained on the same data performs better than fasttext. However, in this test, our embeddings do not beat facebook's pretrained embeddings
 * Started writing the paper - Link and details have been sent in the mail
 * Read the following paper - "Enriching Word Vectors with Subword Information" 
