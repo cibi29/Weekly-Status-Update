@@ -1,6 +1,15 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 14
+* As discussed last week, extrinsic tasks were performed in english to see if the results can be verified. 
+* Comparison between embeddings trained on wikipedia dump and german to english translated corpora on three tasks - 
+     1. Question Classification 
+     2. Chunking
+     3. Sentiment Analysis 
+* So far, accuracies for both embeddings are quite similar despite the use of translated data in one. In case of sentiment analysis, performance seems to be better without augmented data. [Spreadsheet](https://docs.google.com/spreadsheets/d/1YGONjsOB_f-kuzWRAzNH86xrIGGohzAEV_WWmTJ_DXQ/edit#gid=0)
+* These experiments were performed for fasttext embeddings. The same tests shall be performed on word2vec to see if the results hold. 
+
 ## Week 13 
 * Completed tests with another extrinsic task - Question Classification. Please refer to the results [here](https://docs.google.com/spreadsheets/d/1YGONjsOB_f-kuzWRAzNH86xrIGGohzAEV_WWmTJ_DXQ/edit#gid=0)
 * Results show that word2vec trained on the same data performs better than fasttext. However, in this test, our embeddings do not beat facebook's pretrained embeddings
