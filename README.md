@@ -1,6 +1,10 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Week 15 
+* Haven't had much progress since I was traveling and had to work on applications. 
+* Completed the old tasks with just machine translated data. Performance with translated data is slightly poorer than while using original wikipedia text - however, the drops in performance are not exactly consistent on all tasks - [Table](https://docs.google.com/document/d/1BosbwVuUhHlv8c7R_Nn0mEfLxs3gJ7xwp9GMrXYi3ts/edit)
+
 ## Week 14
 * As discussed last week, extrinsic tasks were performed in english to see if the results can be verified. 
 * Comparison between embeddings trained on wikipedia dump and german to english translated corpora on three tasks - 
