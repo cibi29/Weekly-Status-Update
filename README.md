@@ -5,10 +5,11 @@ This page will temporary reflect weekly updates on the project
 * Worked on Natural Language Inference task using the Paraphrase Database 
 * The task involves determining whether a natural language hypothesis h can reasonably be inferred from a natural language premise p.
 Example : 
-  p Several airlines polled saw costs grow more than expected, even after adjusting for inflation.
-  h Some of the companies in the poll reported cost increases.
-* The results for embeddings trained on "common vocabulary" of different data splits can be found [here]()
-* Performance for the various embeddings used is very similar and does not prove that adding more training data improves accuracy in the task. 
+ 1. p Several airlines polled saw costs grow more than expected, even after adjusting for inflation.
+ 2. h Some of the companies in the poll reported cost increases.
+* The results for embeddings trained on "common vocabulary" of different data splits can be found [here](https://docs.google.com/document/d/1UNz7GPbtnuw1BUMPcwdGzwkJ_FyMlhcUiUnXM84CEB0/edit)
+* Performance for the various embeddings used is very similar and does not prove that adding more training data improves accuracy in the task. The experiments were also performed selectively without using a commmon vocabulary. 
+* Have obtained Hindi treebank from NLP lab, Currently in need of Conll 2003 dataset for English NER - paperwork required.
   
 
 ## Week 14
