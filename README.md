@@ -4,6 +4,7 @@ This page will temporary reflect weekly updates on the project
 ## Week 16
 * Obtained reuters corpus. Ran named entity recognition task for English. 
 * Concluded all five tasks (for a total of thirty sets of embeddings) - NER, Chunking, Inference, Sentiment Analysis and Question Classification for English - Graphs for all of these tasks [here](https://docs.google.com/document/d/1IZBiPvSNaviKwNrjb0RC27ihw3E055TEL5AJsCWCZtg/edit). Link to [spreadsheet](https://docs.google.com/spreadsheets/d/1s-p7e6cP2jhqsXCM4C4R7Pem1HYurEPMiCoQjEbSNqg/edit#gid=0)
+[Report](https://github.com/cibi29/Weekly-Status-Update/blob/master/NAACL_HLT_2016%20(2)%20(2).pdf)
 * From the results obtained, all the tasks do not reinforce our claim that more training data means better embeddings. 
 * Have requested Named Entity Recognition dataset used for the Indian Language NER contest in ICON 2013. Contacted members in NLP lab to regarding their own NER resources. 
 * For this week - will be working on Part of Speech Tagging on Hindi first followed by NER. 
