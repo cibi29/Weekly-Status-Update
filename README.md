@@ -3,12 +3,12 @@ This page will temporary reflect weekly updates on the project
 
 ## Week 16
 
-* Summary / General Direction - 
+SUMMARY / GENERAL DIRECTION - 
 1. Have tried the tasks with varying fractions of data (fractions from 0.01 to 1). 
 2. Adding translated data does not incrementally improve performance on all of these tasks. 
 3. Further direction - Use much larger fraction of translated data to train - Upto hundred times the available natural data from our current range of 2 or 3 times the natural text.
 
-
+WEEKLY PROGRESS
 * Obtained reuters corpus. Ran named entity recognition task for English. 
 * Concluded all five tasks (for a total of thirty sets of embeddings) - NER, Chunking, Inference, Sentiment Analysis and Question Classification for English - Graphs for all of these tasks [here](https://docs.google.com/document/d/1IZBiPvSNaviKwNrjb0RC27ihw3E055TEL5AJsCWCZtg/edit). Link to [spreadsheet](https://docs.google.com/spreadsheets/d/1s-p7e6cP2jhqsXCM4C4R7Pem1HYurEPMiCoQjEbSNqg/edit#gid=0)
 [Report](https://github.com/cibi29/Weekly-Status-Update/blob/master/NAACL_HLT_2016%20(2)%20(2).pdf)
