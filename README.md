@@ -3,7 +3,7 @@ This page will temporary reflect weekly updates on the project
 
 ## Week 16
 
-* Summary - 
+* Summary / General Direction - 
 1. Have tried the tasks with varying fractions of data (fractions from 0.01 to 1). 
 2. Adding translated data does not incrementally improve performance on all of these tasks. 
 3. Further direction - Use much larger fraction of translated data to train - Upto hundred times the available natural data from our current range of 2 or 3 times the natural text.
