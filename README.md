@@ -9,7 +9,7 @@ This page will temporary reflect weekly updates on the project
 * Following are the results
 
 ![pos](pos_results.png)
-![teaser](hindi_pos.PNG)
+![teaser](table_results.PNG)
 
 
 ## Week 16
