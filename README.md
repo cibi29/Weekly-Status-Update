@@ -4,6 +4,10 @@ This page will temporary reflect weekly updates on the project
 ## Week 17 
 
 * Part of Speech Tagging in Hindi - Completed task for embeddings from Wikipedia corpus vs a Combination of Wikipedia and Europarl Corpus
+* Europarl Corpus Size - 59571362 words
+* Wikipedia Corpus Size - 21739050 words
+* Following are the results
+
 ![pos](pos_results.png)
 ![teaser](hindi_pos.PNG)
 
