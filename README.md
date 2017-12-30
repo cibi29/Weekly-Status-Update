@@ -4,7 +4,7 @@ This page will temporary reflect weekly updates on the project
 ## Week 17 
 
 * Part of Speech Tagging in Hindi - Completed task for embeddings from Wikipedia corpus vs a Combination of Wikipedia and Europarl Corpus
-![teaser](chart(6).png)
+![teaser1](chart(6).png)
 ![teaser](hindi_pos.PNG)
 
 
