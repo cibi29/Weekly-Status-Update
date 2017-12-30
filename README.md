@@ -5,7 +5,7 @@ This page will temporary reflect weekly updates on the project
 
 * Part of Speech Tagging in Hindi - Completed task for embeddings from Wikipedia corpus vs a Combination of Wikipedia and Europarl Corpus
 *
-
+[Graph] [https://github.com/cibi29/Weekly-Status-Update/blob/master/hindi_pos.PNG]
 ## Week 16
 
 SUMMARY / GENERAL DIRECTION - 
