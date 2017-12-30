@@ -11,6 +11,9 @@ This page will temporary reflect weekly updates on the project
 ![pos](pos_results.png)
 ![teaser](table_results.PNG)
 
+* Embeddings were trained on different fractions of europarl and wikipedia corpus as well as a combination of both. 
+* Results above show small improvements with increase in translated training data. 
+
 
 ## Week 16
 
