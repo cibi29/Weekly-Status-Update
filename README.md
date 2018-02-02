@@ -1,6 +1,16 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## This Week
+* Working on using Char-RNN for generating additional training corpora. 
+* Exploring methods to compare the corpora as we add more translated data - Methods such as Cosine similarity and KL Divergence will show that the distribution of the corpus is changing which has already been established simply by the embeddings. However, they do not show how exactly the corpora change in relation to the growth or saturation of performance and are therefore just as useful as simple measures such as vocabulary size and word frequency counts. 
+* Next Week - 
+ 1. Will have to write scripts to query the OpenNMT live system or train an MT from scratch for comparison. 
+* Other Concerns - 
+ 1. Last week's discussion on active learning - Active learning is more suitable in cases where annotation is expensive and can hence be done selectively. In our case though, training data is readily available as corpora. 
+ 2. Read on a page that querying google translate goes against their terms of service. This will have to be looked into, regarding the paper as we may not be able to mention it. 
+ 
+ 
 ## Week 17 
 
 * Part of Speech Tagging in Hindi - Completed task for embeddings from Wikipedia corpus vs a Combination of Wikipedia and Europarl Corpus
