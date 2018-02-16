@@ -2,7 +2,9 @@
 This page will temporary reflect weekly updates on the project
 
 ## This Week
-
+* Concluded tests on using Char-RNNs for generating additional text. 
+![graph_one](ws-one.png)
+![graph_two](ws-two.png)
 
 ## Week 18
 * Working on using Char-RNN for generating additional training corpora. 
