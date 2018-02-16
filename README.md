@@ -2,6 +2,9 @@
 This page will temporary reflect weekly updates on the project
 
 ## This Week
+
+
+## Week 18
 * Working on using Char-RNN for generating additional training corpora. 
 * Exploring methods to compare the corpora as we add more translated data - Methods such as Cosine similarity and KL Divergence will show that the distribution of the corpus is changing which has already been established simply by the embeddings. However, they do not show how exactly the corpora change in relation to the growth or saturation of performance and are therefore just as useful as simple measures such as vocabulary size and word frequency counts. 
 * Next Week - 
