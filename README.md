@@ -7,7 +7,10 @@ This page will temporary reflect weekly updates on the project
 1. Text Generated from the Char-RNN model
 2. Text that was initially used to train the Char-RNN model in 1
 ![graph_one](ws-one.png)
+The graph above shows results for a model trained on Shakespeare Text - Generated text size = 27741426 words, Training text size = 712287 words
 ![graph_two](ws-two.png)
+The graph above shows results for a model trained on Shakespeare Text - Generated text size = 33459955 words, Training text size = 733737 words
+* It should be noted that embeddings from generated text are very poor compared to original text. Even when the training corpus is almost hundred times larger. 
 
 ## Week 18
 * Working on using Char-RNN for generating additional training corpora. 
