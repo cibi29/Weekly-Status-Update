@@ -2,7 +2,10 @@
 This page will temporary reflect weekly updates on the project
 
 ## This Week
-* Concluded tests on using Char-RNNs for generating additional text. 
+* Concluded tests on using Char-RNNs for generating additional text.
+* The following graphs show word similarity results for embeddings generated on 
+1. Text Generated from the Char-RNN model
+2. Text that was initially used to train the Char-RNN model in 1
 ![graph_one](ws-one.png)
 ![graph_two](ws-two.png)
 
