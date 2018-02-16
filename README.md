@@ -12,7 +12,7 @@ The graph above shows results for a model trained on Shakespeare Text - Generate
 ![graph_two](ws-two.png)
 
 The graph above shows results for a model trained on the europarl corpus - Generated text size = 33459955 words, Training text size = 733737 words
-* It should be noted that embeddings from generated text are very poor compared to original text. Even when the training corpus is almost hundred times larger. 
+* Embeddings from generated text are very poor compared to original text even when the training corpus is almost a hundred times larger. 
 
 ## Week 18
 * Working on using Char-RNN for generating additional training corpora. 
