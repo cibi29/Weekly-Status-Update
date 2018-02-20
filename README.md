@@ -2,10 +2,12 @@
 This page will temporary reflect weekly updates on the project
 
 ## This Week 
-* Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results show that embeddings learnt for verbs do not score very high on the word similarity test.  
-![Verbs Similarity Comparison](verb_vs_rest.png)
+* Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results are not consistent in some cases, showing that embeddings learnt for verbs do not score very high on the word similarity test and the opposite for YP-130 verb similarity dataset.   
+![Verbs Similarity Comparison](rest_vs_verb.png)
 
-* 
+* Hence, we cannot conclusively differentiate that the model learns particular types of words better. 
+
+* Created a handpicked set of positive and negative words and tested them on 
 
 ## Week 19
 * Concluded tests on using Char-RNNs for generating additional text.
