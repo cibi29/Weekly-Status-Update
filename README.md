@@ -3,7 +3,7 @@ This page will temporary reflect weekly updates on the project
 
 ## This Week 
 * Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results show that embeddings learnt for verbs do not score very high on the word similarity test.  
-
+![Verbs Similarity Comparison](verb_vs_rest.png)
 
 * 
 
