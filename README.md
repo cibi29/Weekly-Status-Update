@@ -1,7 +1,13 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
-## This Week
+## This Week 
+* Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results show that embeddings learnt for verbs do not score very high on the word similarity test.  
+
+
+* 
+
+## Week 19
 * Concluded tests on using Char-RNNs for generating additional text.
 * The following graphs show word similarity results for embeddings generated on 
 1. Text Generated from the Char-RNN model
