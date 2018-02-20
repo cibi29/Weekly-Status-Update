@@ -7,7 +7,13 @@ This page will temporary reflect weekly updates on the project
 
 * Hence, we cannot conclusively differentiate that the model learns particular types of words better. 
 
-* Created a handpicked set of positive and negative words and tested them on 
+* Created a handpicked set of verbs, common words, positive and negative words etc and visualised them using tsne. On the size of corpora used, we eventually see some the embeddings group sparsely.
+![one](final_small_one.png)
+![two](final_small_hundred.png)
+![three](final_full_hundred.png
+
+* However, this grouping does not happen better for any particular type of words. We therefore cannot conclude whether the MT is better with particular parts of speech / type of words. The quality of embeddings for specific word types is more a question of exposure to multiple usages of the word and cannot be assigned as a consequence of the MT being used. 
+
 
 ## Week 19
 * Concluded tests on using Char-RNNs for generating additional text.
