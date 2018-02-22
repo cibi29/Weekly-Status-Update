@@ -5,6 +5,7 @@ This page will temporary reflect weekly updates on the project
 
 * Compared embeddings generated from a pretrained Opennmt model and Google's MT. - Reported Bleu scores from the Original paper - 26.30 for Google's MT and 30.33 for the OpenNMT pretrained model. 
 ![two](gnmt vs onmt.png)
+* Embeddings from google translate perform better except in one or two similarity tests
 * Upon trying to generate Bleu scores using Moses for Google's MT - received a bleu score of 12 which is drastically different. 
 
 ## This Week 
