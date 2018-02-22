@@ -1,6 +1,12 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
+## Today
+
+* Compared embeddings generated from a pretrained Opennmt model and Google's MT. - Reported Bleu scores from the Original paper - 26.30 for Google's MT and 30.33 for the OpenNMT pretrained model. 
+![two](gnmt vs onmt.png)
+* Upon trying to generate Bleu scores using Moses for Google's MT - received a bleu score of 12 which is drastically different. 
+
 ## This Week 
 * Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results are not consistent in some cases, showing that embeddings learnt for verbs do not score very high on the word similarity test and the opposite for YP-130 verb similarity dataset.   
 ![Verbs Similarity Comparison](rest_vs_verb.png)
