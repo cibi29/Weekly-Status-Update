@@ -1,14 +1,24 @@
 # Weekly-Status-Update
 This page will temporary reflect weekly updates on the project
 
-## Today
+## This Week
+* Read the literature survey on active learning by Burr Settles, "Deep Active Learning for Named Entity Recognition"
+and watched the active learning tutorial by Sanjoy Dasgupta.
+1. Could use an uncertainty sampling metric for the language model and train on sentences containing words that the language 
+model predicts with least confidence. However, we do not know if the low confidence is because of candidate words or words in the context which would make the decision of sampling new sentences from a human oracle
+more difficult. 
+2. In all the cases that were seen, active learning is used in a setting where annotation is expensive. In our case, since the corpora is already available, annotation is inexpensive and actively sampling new sentences only increases computational cost. 
+* Have been consolidating and documenting work done so far - code and experiments. 
+* Also generating embeddings for the remaining languages of the eight Indian languages. 
+
+## Week 21
 
 * Compared embeddings generated from a pretrained Opennmt model and Google's MT. - Reported Bleu scores from the Original paper - 26.30 for Google's MT and 30.33 for the OpenNMT pretrained model. 
 ![two](abcd.png)
 * Embeddings from google translate perform better except in one or two similarity tests. 
 * Generating our own bleu scores for Google's MT presently. 
 
-## This Week 
+## Week 20
 * Word Similarity performances on different types of words such as verbs, nouns from word similarity tasks. Results are not consistent in some cases, showing that embeddings learnt for verbs do not score very high on the word similarity test and the opposite for YP-130 verb similarity dataset.   
 ![Verbs Similarity Comparison](rest_vs_verb.png)
 
