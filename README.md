@@ -4,7 +4,7 @@ This page will temporary reflect weekly updates on the project
 ## This Week
 * Obtained word similarity datasets for Indian languages from Syed Sarfaraaz's thesis. 
 * Generated word embeddings trained on different fractions of data and plotted their performance on these datasets. The results follow the same trend seen for English embeddings. Following are the results - 
-
+![one](word_sim_all.png)
 
 ## Week 22
 * Read the literature survey on active learning by Burr Settles, "Deep Active Learning for Named Entity Recognition"
