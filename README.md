@@ -5,6 +5,7 @@ This page will temporary reflect weekly updates on the project
 * Obtained word similarity datasets for Indian languages from Syed Sarfaraaz's thesis. 
 * Generated word embeddings trained on different fractions of data and plotted their performance on these datasets. The results follow the same trend seen for English embeddings. Following are the results - 
 ![one](word_sim_all.png)
+* For comparison of MT bleu score vs embedding performance, need to translate corpora in French, Italian, Portugese and Spanish as they are the most common langauges with good bleu scores reported. Will be done with it entirely by Monday
 
 ## Week 22
 * Read the literature survey on active learning by Burr Settles, "Deep Active Learning for Named Entity Recognition"
